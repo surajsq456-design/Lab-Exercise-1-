@@ -2,7 +2,7 @@
 
 ## Title
 
-**Hands-on UI/UX Experiments**
+## Hands-on UI/UX Experiments**
 
 ## Aim
 
